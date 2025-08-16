@@ -1,0 +1,2 @@
+This file is created using touch and this directory/repo/folder by using cd command
+By using git init , we can make this repo to a git repo
